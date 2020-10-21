@@ -9,6 +9,7 @@
     Resultado
     A primeira linha exibe a mensagem “Menor valor:” seguida por um espaço e o menor número lido na entrada. A segunda linha exibe a mensagem “Posicao:” seguida de um espaço e a posição do array em que está o menor número, lembrando que o array inicia na posição zero.
 */
+
 int main() {
     int N, i, menor, pos = 0;
     scanf("%d", &N);

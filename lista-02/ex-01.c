@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+    Suponha que existam 02 vetores A e B do tipo inteiro com 25 elementos inteiros
+    cada. Elabore um algoritmo que construa um vetor C a partir da junção de A e B. A
+    seguir efetue uma pesquisa sequencial no vetor no vetor C.
+*/
+
 // ==================== Faz a pesquisa do número dado ====================
 int PesquisaPorNumero(int numeroPesquisar, int vetorC[50]) {
     int i;
